@@ -1,4 +1,4 @@
-# Mart Finder
+﻿# Mart Finder
 
 주변 5km 이내 마트 가격을 비교해 최저가 마트를 추천하는 Windows 데스크톱 유틸리티입니다.
 
